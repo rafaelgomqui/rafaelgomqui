@@ -58,7 +58,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/rafaelgomqui/">
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgomqui&stats_format=bytes)
+	
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgomqui&stats_format=bytes"/>
 </a>
 </div>
 

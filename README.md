@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently studying on **Multiplatform App Development (DAM) at IES La Marisma**
 
-- 💬 Ask me about **HTML, CSS, SQL, Java**
-
 - 📫 How to reach me **rafaelgomqui@gmail.com**
 
 <br><br>

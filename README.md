@@ -72,7 +72,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/rafael-gómez-quintero-91863627a" target="_blank">
+<a href="www.linkedin.com/in/rafael-gómez-quintero" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Rafael Gómez Quintero-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
